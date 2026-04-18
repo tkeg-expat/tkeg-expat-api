@@ -19,7 +19,7 @@ Only cache these 3 fields: **Name, Slug, _id**. And only cache if `main_product 
 
 ## API Endpoint Format
 
-**IMPORTANT:** The product type's literal Bubble name is `product:all` — `:all` is **part of the type name**, not a list-mode suffix. Always include it, in both list AND single-record URLs:
+**IMPORTANT:** The product type name is `product:all` — `:all` is **part of the type name**, not a list-mode suffix. Always include it in both list AND single-record URLs:
 - ✅ `/api/1.1/obj/product:all` — list
 - ✅ `/api/1.1/obj/product:all/<id>` — single record
 - ❌ `/api/1.1/obj/product` — 404 "Type not found"

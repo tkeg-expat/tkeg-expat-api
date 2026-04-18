@@ -31,7 +31,7 @@ Load the relevant reference first, then follow its workflow.
 
 1. Always fetch live data before answering — do not rely on remembered details.
 2. Use single-record fetch (`/obj/<typename>/<_id>`) when you have an `_id`; use list queries only when searching.
-3. Some type names include `:all` as part of the literal Bubble name (e.g. `product:all`). Use it in BOTH list and single-record URLs. See `tkeg-bubble-conventions/references/endpoints.md`.
+3. Some type names include `:all` as part of the name (e.g. `product:all`). Use it in BOTH list and single-record URLs.
 4. Paginate using `response.cursor` + `response.results` until exhausted (max 100 per page).
 5. Multilingual text lives in `*-NEW2` / `*_new2` fields — extract the requested language.
 6. When a user sends a website link with `dynamic` in the path, treat the next segment as a `Slug` or `_id` candidate.
@@ -45,7 +45,7 @@ Load the relevant reference first, then follow its workflow.
 
 ## Dependencies
 
-- `tkeg-bubble-conventions/references/bubble-data-api.md` — Bubble Data API constraint syntax + pagination
+- `tkeg-bubble-conventions/references/data-api.md` — Data API constraint syntax + pagination
 
 ## Disclosure rules
 
