@@ -1,0 +1,147 @@
+# Cached Info Country — Name / Abbreviation / Slug / _id
+
+Use this cache to skip list queries when the country is already known. 89 records total.
+
+## Europe
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Austria | AT | at | 1708085701153x751123490346369000 |
+| Belgium | BE | be | 1708030831440x220207355787214850 |
+| Bermuda | BM | bm | 1747474231167x698879460481433600 |
+| Bulgaria | BG | bg | 1708085981100x833451627860721700 |
+| Croatia | HR | hr | 1708318570472x846250673702436900 |
+| Cyprus | CY | cy | 1708030163209x524725713849810940 |
+| Czechia | CZ | cz | 1708030709073x636497514738483200 |
+| Denmark | DK | dk | 1708317601817x321519460441653250 |
+| Estonia | EE | ee | 1708049142555x508322484765589500 |
+| Finland | FI | fi | 1708049486920x380572552365080600 |
+| France | FR | fr | 1708030920606x324392316235153400 |
+| Germany | DE | de | 1708030453895x673366612257538000 |
+| Gibraltar | GI | gi | 1716380384600x178100354185429000 |
+| Greece | GR | gr | 1708318171392x770960697589760000 |
+| Hungary | HU | hu | 1708027409710x128982200019845120 |
+| Iceland | IS | is | 1708462187100x292780423972913150 |
+| Ireland | IE | ie | 1708048986724x792771986432983000 |
+| Italy | IT | it | 1708030498711x320388678269272060 |
+| Latvia | LV | lv | 1708554572115x823763171781378000 |
+| Liechtenstein | LI | li | 1708554483037x769060076252561400 |
+| Lithuania | LT | lt | 1708049329661x403318851696066600 |
+| Luxembourg | LU | lu | 1708030005977x962810170610548700 |
+| Malta | MT | mt | 1708049731336x872226805857648600 |
+| Monaco | MC | mc | 1709729223455x916590817824473100 |
+| Netherlands | NL | nl | 1708049560372x663297781348958200 |
+| Norway | NO | no | 1708030648963x173839193209569280 |
+| Poland | PL | pl | 1708031518353x477440837845778400 |
+| Portugal | PT | pt | 1708556456416x493458083941187600 |
+| Romania | RO | ro | 1708556772222x125758189308739580 |
+| Slovakia | SK | sk | 1708557219133x601086208885915600 |
+| Slovenia | SI | si | 1708557036326x763068979376554000 |
+| Spain | ES | es | 1708049625172x122375646115266560 |
+| Sweden | SE | se | 1708049197208x599847340115755000 |
+| Switzerland | CH | ch | 1708049261001x394268542300323840 |
+| Turkey | TR | tr | 1708030066407x379145874643353600 |
+| Ukraine | UA | ua | 1708557497308x841859204225433600 |
+| United Kingdom | GB | gb | 1708030269905x660612510627135500 |
+
+## East Asia
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Chinese Mainland | CN | cn | 1708317271534x283172341721858050 |
+| Chinese Taipei | TW | tw | 1708557398553x770914895415738400 |
+| Hong Kong SAR | HK | hk | 1708049678553x675052466445484000 |
+| Japan | JP | jp | 1708462527853x297643998335467500 |
+| Macau SAR | MO | mo | 1708555116500x423775530014736400 |
+| Philippines | PH | ph | 1722995929734x772410204121202700 |
+| South Korea | KR | kr | 1708554154256x339888055833067500 |
+
+## South Asia / Southeast Asia
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Malaysia | MY | my | 1708555228322x403336166469795800 |
+| Singapore | SG | sg | 1708030761653x525018682556153860 |
+| Thailand | TH | th | 1723015984363x964595809186742300 |
+| Vietnam | VN | vn | 1723004649102x547686101863628800 |
+
+## North America
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Canada | CA | ca | 1708026244397x846145979739013100 |
+| Guatemala | GT | gt | 1724258132590x286083935590940670 |
+| Mexico | MX | mx | 1708049795233x784449549057130500 |
+| Puerto Rico | PR | pr | 1708556088990x467714897962598400 |
+| United States | US | us | 1708049383512x863269155383279600 |
+
+## Central America
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Belize | BZ | bz | 1708317048180x590717989365743600 |
+| Costa Rica | CR | cr | 1724258119999x455447100831563800 |
+| El Salvador | SV | sv | 1724258100420x301279390625431550 |
+| Nicaragua | NI | ni | 1724258145190x614302914836430800 |
+| Panama | PA | pa | 1708555796210x323146710794108900 |
+
+## Caribbeans
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| British Virgin Islands | VG | vg | 1708557625681x233792049176379400 |
+| Cayman Islands | KY | ky | 1708554367920x261266272873873400 |
+| Dominican Republic | DO | do | 1724258168784x654257739853201400 |
+
+## South America
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Argentina | AR | ar | 1708085390303x767990110528733200 |
+| Bolivia | BO | bo | 1724258054401x993271339288363000 |
+| Brazil | BR | br | 1708316912941x370934270114922500 |
+| Chile | CL | cl | 1708317160185x813657249418838000 |
+| Colombia | CO | co | 1708317414347x369326449480171500 |
+| Ecuador | EC | ec | 1724258074666x225925535860523000 |
+| Paraguay | PY | py | 1724258017294x451438549846196200 |
+| Peru | PE | pe | 1708555981522x719098257456758800 |
+| Uruguay | UY | uy | 1724258030829x616778198237577200 |
+
+## Middle East / West Asia
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Israel | IL | il | 1708025894517x442623432692596740 |
+| Kazakhstan | KZ | kz | 1709821324838x368980609103560700 |
+| United Arab Emirates | AE | ae | 1708085206081x173907541131526140 |
+
+## Oceania
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Australia | AU | au | 1708085003078x700326109928751100 |
+| Marshall Islands | MH | mh | 1708554724684x633243669073756200 |
+| New Zealand | NZ | nz | 1708556597962x125239046673268740 |
+
+## Africa
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Egypt | EG | eg | 1708317865438x133729224021508100 |
+| Seychelles | SC | sc | 1708556932693x492202518750953500 |
+| South Africa | ZA | za | 1725658475553x243259266731606000 |
+
+## Regions / Groupings
+
+| Name | Abbr | Slug | _id |
+|---|---|---|---|
+| Association of Southeast Asian Nations | ASEAN | asean | 1723112112670x285772247440556030 |
+| Eurasian Economic Union | EEU | eeu | 1721040456490x803706798738243600 |
+| European Economic Area | EEA | eea | 1708317744352x910782932883865600 |
+| European Union | EU | eu | 1708317968678x310625632322846700 |
+| Global | WORLD | world | 1721040449203x551255139377479700 |
+| Greater China Area | GCA | gca | 1708318083313x652988207298248700 |
+| Greater U.S. Area | GUS | gus | 1708318337086x440084254773477400 |
+| Greater United Kingdom | GUK | guk | 1721040453352x441640007393607700 |
+| USMCA (formerly NAFTA) | NAFTA | nafta | 1708555551346x435034380897615900 |
+| Union of South American Nations | USAN | usan | 1708557748888x174912246036824060 |
